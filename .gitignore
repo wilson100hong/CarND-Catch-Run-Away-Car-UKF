@@ -3,3 +3,6 @@ build/
 
 # video
 *.mp4 
+
+# pycharm
+./idea
